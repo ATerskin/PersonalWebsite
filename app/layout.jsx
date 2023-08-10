@@ -3,7 +3,7 @@ import '@/global.css'
 
 export const metadata = {
   title: 'Alex Terskin',
-  description: 'A minimal starter for Nextjs + React-three-fiber and Threejs.',
+  description: 'New Start to my Personal Site',
 }
 
 export default function RootLayout({ children }) {
